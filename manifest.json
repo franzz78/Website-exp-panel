@@ -1,0 +1,16 @@
+{
+  "name": "Roblox EXP Admin Panel",
+  "short_name": "EXPPanel",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#4ecca3",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
+
