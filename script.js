@@ -36,7 +36,7 @@ window.addExp = async () => {
         });
 
         // 2. Kirim Webhook ke Discord
-        await fetch('URL_WEBHOOK_DISCORD_ANDA', {
+        await fetch('https://discord.com/api/webhooks/1522062060157145118/Of9cNDI0OPXu8mI0Lo0BMNzUe0OcXdIPd3UNpQ0-GQtr1US7ty9IMfIq_z7W2PFtGmVp', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
